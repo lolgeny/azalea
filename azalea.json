@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "packages": [
+    {
+      "name": "phi",
+      "version": "1.0.0"
+    },
+    {
+      "name": "aestd",
+      "version": "1.0.0"
+    }
+  ]
+}
